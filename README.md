@@ -1,27 +1,21 @@
-<div align="center">
+<section>
+  <p>👋🏻 반갑습니다, <b>주니어 프론트엔드 개발자 김연진</b>입니다 ! <br /> 
+  </p>
+</section>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7dcbf8&height=200&fontColor=313131&section=header&text=Yunjin&nbsp;Kim&animation=fadeIn)
-
-
-# 🛠 Tech Stack
-
-<br/>
-      
-### Languages
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-
-### Strong  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-
-### Knowledgeable  
-<img src="https://img.shields.io/badge/redux-8A2BE2?style=flat-square&logo=redux&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<section>
+  <img src="https://img.shields.io/badge/chloeeekim1109@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</section>
 
 
-<br/>
-<br/>
-<br/>
-      
+<section>
+  <h3> Skills </h3>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjink&show_icons=true&theme=radical)
-
-</div>
+  <br />
+<section>
